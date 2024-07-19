@@ -1892,7 +1892,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   background: var(--bg-gradient-jet) !important;
   border-radius: inherit !important;
   color: #fff !important;
-  min-height: 405px !important;
+  min-height: 480px !important;
 }
 
 .card a{
